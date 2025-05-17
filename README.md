@@ -1,7 +1,14 @@
 # 🧠 AI & Deafness: Exploring Fairness in Algorithms
 
-Welcome to the **AI & Deafness Educational Project**!  
-This beginner-friendly learning tool helps students explore how Artificial Intelligence (AI) impacts the Deaf and disabled community — especially in systems like **COMPAS** used in the justice system.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scwb-alpha/ai-deafness-ethics-project/blob/main/ai_deafness_project.ipynb)
+&nbsp;
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scwb-alpha/ai-deafness-ethics-project/HEAD?filepath=ai_deafness_project.ipynb)
+
+---
+
+## 📘 Overview
+
+This beginner-friendly Python project helps students explore how artificial intelligence (AI) can impact the Deaf and disabled communities. It includes real-life examples of bias in tools like **COMPAS**, facial recognition, and hiring systems. Learners can interact with a mock AI risk calculator and understand why ethics and accessibility are critical in AI design.
 
 ---
 
@@ -22,3 +29,26 @@ This beginner-friendly learning tool helps students explore how Artificial Intel
 └── [assets/](./assets)                                          # Folder with sources and images
     └── [sources.txt](./assets/sources.txt)                     # Real case links
 
+
+---
+
+## 📎 Sources Used
+
+- [ProPublica – Machine Bias & COMPAS](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- [NBC – Deaf Man Jailed Without Interpreter](https://www.nbcwashington.com/news/local/deaf-man-jailed-without-sign-language-translator-wins-case-against-dc-jail/1976499/)
+- [Reuters – Amazon's AI Hiring Bias](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+- [ACLU – Facial Recognition Bias](https://www.aclu-mn.org/en/news/biased-technology-automated-discrimination-facial-recognition)
+
+---
+
+## 🏗️ Status
+
+🚧 **This project is under construction**  
+New features (like visuals, sliders, and CSV export) will be added in future updates.
+
+---
+
+## 🙋‍♀️ Author
+
+Created by **Sandra White-Belgrave**  
+📧 scwb.work@outlook.com
