@@ -14,3 +14,11 @@ This beginner-friendly learning tool helps students explore how Artificial Intel
 ---
 
 ## 📂 Project Structure
+📂 AI-Deafness-Ethics-Project/
+├── [ai_deafness_project.py](./ai_deafness_project.py)          # Python script (VS Code)
+├── [ai_deafness_project.ipynb](./ai_deafness_project.ipynb)    # Jupyter notebook (Colab friendly)
+├── [README.md](./README.md)                                    # Project overview
+├── requirements.txt                                             # (optional future add-ons)
+└── [assets/](./assets)                                          # Folder with sources and images
+    └── [sources.txt](./assets/sources.txt)                     # Real case links
+
